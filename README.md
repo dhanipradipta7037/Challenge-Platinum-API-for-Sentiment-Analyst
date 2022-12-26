@@ -1,3 +1,7 @@
+# Download File
+https://drive.google.com/file/d/1KhVC_dQjoixLCXDEhE9C-uMnWHI35dje/view?usp=sharing
+
+
 # Challenge-Platinum-API-for-Sentiment-Analyst
 
 Melakukan analisis sentimen dengan pembuatan model menggunakan Naural Network dan LSTM dengan mendeploynya dengan API Flask dan Swagger UI. Pada endpoint dapat menginput teks dan mengupload file untuk menganalisis sentimen dan mengcleansingnya.
